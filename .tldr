@@ -36,9 +36,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 795.2842403208731,
-			"y": 342.77402070132507,
-			"lastActivityTimestamp": 1764046498319,
+			"x": 397.952973170065,
+			"y": 316.14704818155246,
+			"lastActivityTimestamp": 1764132810491,
 			"meta": {}
 		},
 		{
@@ -183,9 +183,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -62.32110191793022,
-			"y": -5.717978953986387,
-			"z": 1.1214752242398711,
+			"x": -202.4218826983011,
+			"y": -39.06959101042724,
+			"z": 1.479730629066589,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -549,6 +549,84 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 297.934769118049,
+			"y": 86.39404568763362,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:1yITtWBUJf5McoVYHpkXM",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "s",
+				"w": 69.76042175292969,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.413330221756762,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "398126"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aK7voC0V",
+			"typeName": "shape"
+		},
+		{
+			"x": 312.2238299675976,
+			"y": 189.68522381385182,
+			"rotation": 5.567600313861911,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Ut20vBdCt0fUxKnNTY9r1",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "s",
+				"w": 111.6875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 0.6853584228010212,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "k = 399484"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aJlpP5qV",
+			"typeName": "shape"
+		},
+		{
 			"x": 612.4067638589949,
 			"y": 375.723846534696,
 			"rotation": 0,
@@ -751,9 +829,8 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:geo": "rectangle",
-				"tldraw:color": "red",
-				"tldraw:size": "s"
+				"tldraw:size": "s",
+				"tldraw:color": "light-green"
 			},
 			"brush": null,
 			"scribbles": [],
